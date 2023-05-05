@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Github Skill (gh-pages) Course
 ---
 
